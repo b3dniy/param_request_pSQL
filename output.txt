@@ -1,0 +1,22 @@
+The number of clients:  4
+(10, 'Andrey', 'Suchov', 'Andrey.Suchov@mail.com', datetime.date(2024, 6, 5)) 
+(11, 'Andrey', 'Kozlov', 'andrey.kozlov@gmail.com', datetime.date(2024, 6, 5))
+(12, 'Andrey', 'Suchov', 'Andrey.Suchov@mail.com', datetime.date(2024, 6, 5)) 
+(13, 'Andrey', 'Kozlov', 'andrey.kozlov@gmail.com', datetime.date(2024, 6, 5))
+
+
+параметрический запрос:
+
+Clients with email Andrey.Suchov@mail.com:
+(49, 'Andrey', 'Suchov', 'Andrey.Suchov@mail.com', datetime.date(2024, 6, 7))
+
+Clients with email BHsbci.doidiaj@gmail.com:
+(51, 'dfnasjkfna', 'sdASDJJDIJ', 'BHsbci.doidiaj@gmail.com', datetime.date(2024, 6, 7))
+
+Clients with email andrey.kozlov@gmail.com:
+(50, 'Andrey', 'Kozlov', 'andrey.kozlov@gmail.com', datetime.date(2024, 6, 7))
+
+
+
+
+############# поменял пользователя и с тем же успехом подключился к бд
